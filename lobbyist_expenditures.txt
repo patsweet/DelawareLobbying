@@ -1,0 +1,234 @@
+last_name|first_name|employer|employer_id|food_refreshments|entertainment|lodging|travel|recreation|gifts
+Heffron|A. Richard|DELAWARE STATE CHAMBER OF COMMERCE|124|933.21|0.0|0.0|0.0|0.0
+Hoffman|Alice|Christina River, LLC|876|0.0|0.0|0.0|0.0|0.0
+Huelsenbeck|Allen|WILMINGTON POLICE/FIRE PENSION TASK FORCE|263|0.0|0.0|0.0|0.0|0.0
+Auner|Amelia|PLANNED PARENTHOOD ADVOCACY FUND OF DELAWARE, INC.|221|0.0|0.0|0.0|0.0|0.0
+Auner|Amelia|PLANNED PARENTHOOD OF DELAWARE|222|40.0|0.0|0.0|0.0|0.0
+Manus|Andrew|The Nature Conservancy|526|0.0|0.0|0.0|0.0|0.0
+Stayton|Andrew D.|DELAWARE SOFT DRINK ASSOCIATION|119|18.5|0.0|0.0|0.0|0.0
+Delcollo|Anthony|Delaware Association of Second Amendment Lawyers|1187|0.0|0.0|0.0|0.0|0.0
+Sisson|Beverly M.|Verizon|256|0.0|0.0|0.0|0.0|0.0
+Sisson|Beverly M.|Delaware Association of Insurance Agents & Brokers|441|0.0|0.0|0.0|0.0|0.0
+Sisson|Beverly M.|BHM Insurance Services & Government Relations, Inc.|530|0.0|0.0|0.0|0.0|0.0
+Sisson|Beverly M.|National Association of Insurance & Financial Advisors - Delaware|614|0.0|0.0|0.0|0.0|0.0
+Sisson|Beverly M.|Adkins, Inc.|818|0.0|0.0|0.0|0.0|0.0
+Sisson|Beverly M.|American Council of Life Insurers|940|0.0|0.0|0.0|0.0|0.0
+Sisson|Beverly M.|Federal Home Loan  Bank of Pittsburgh|1096|0.0|0.0|0.0|0.0|0.0
+Sisson|Beverly M.|HIghway One|1097|0.0|0.0|0.0|0.0|0.0
+Metz|Bonnie Lynne|VERIZON COMMUNICATIONS|255|17.0|0.0|0.0|0.0|0.0
+Goggin|Brenna|DELAWARE NATURE SOCIETY|1184|0.0|0.0|0.0|0.0|0.0
+Decker|Bruce E.|DELAWARE COMPENSATION RATING BUREAU, INC.|277|0.0|0.0|0.0|0.0|0.0
+Cochran, IV|C. Malcolm|Volunteer Hose Company of Middletown|1167|0.0|0.0|0.0|0.0|0.0
+Jones|Caroline|Kind to Kids Foundation|1009|0.0|0.0|0.0|0.0|0.0
+Leishman|Carrie|delaware restaurant association|790|0.0|0.0|0.0|0.0|0.0
+Holloway|Cathy Scott|Delaware Breast Cancer Coalition|11|0.0|0.0|0.0|0.0|0.0
+King|Charlotte|LEAGUE OF WOMEN VOTERS|175|100.0|0.0|0.0|0.0|0.0
+Stillson|Christine|LEAGUE OF WOMEN VOTERS|175|0.0|0.0|0.0|0.0|0.0
+Schiltz|Christine P.|Online Lenders Alliance|1036|32.5|0.0|0.0|0.0|0.0
+Simon|Christopher|Cross & Simon, LLC|456|0.0|0.0|0.0|0.0|0.0
+Bason|Christopher|Center for the Inland Bays|468|0.0|0.0|0.0|0.0|0.0
+Sherwood|Claudette|Northeast Alliance Of Delaware|669|0.0|0.0|0.0|0.0|0.0
+Hearn, Jr.|Clifford B.|AMERICAN FAMILY LIFE ASSURANCE|14|0.0|0.0|0.0|0.0|0.0
+Hearn, Jr.|Clifford B.|DELAWARE COMPENSATION RATING BUREAU, INC.|277|0.0|0.0|0.0|0.0|0.0
+Hughes|Connie|Delaware Association of Rehabilitation Facilities|749|0.0|0.0|0.0|0.0|0.0
+Gill|Craig|Pfizer Inc.|557|0.0|0.0|0.0|0.0|0.0
+Kidner|Cristofer Scott|DELAWARE Thoroughbred Horsemen's Association|109|5889.0|0.0|0.0|0.0|0.0
+Dix|David|NAACP|532|0.0|0.0|0.0|0.0|0.0
+Carter|David|Delaware Audubon Society, Inc.|1093|0.0|0.0|0.0|0.0|0.0
+McDowell|David |The Phoenix Companies Inc.|1053|0.0|0.0|0.0|0.0|0.0
+Stevenson|David|Caesar Rodney Institute|1002|0.0|0.0|0.0|0.0|0.0
+Bonar|David|Delaware Volunteer Fireman's Assoc.|329|0.0|0.0|0.0|0.0|0.0
+Bonar|David|Delaware Association of Surveyors|1162|0.0|0.0|0.0|0.0|0.0
+Ennis|David|HIGHMARK BLUE CROSS BLUE SHIELD DELAWARE|31|0.0|0.0|0.0|0.0|0.0
+Bakerian|David G.|DELAWARE BANKERS ASSN.|83|1322.71|0.0|0.0|0.0|0.0
+Hamilton|Deborah|American Lung Association fo the Mid-Atlantic|1133|21.25|0.0|0.0|0.0|0.0
+Hamilton|Deborah|Phamaceutical Research & Manufacturers Assoc|503|31.5|0.0|0.0|0.0|0.0
+Hamilton|Deborah|Delaware Housing Coalition|598|0.0|0.0|0.0|0.0|0.0
+Hamilton|Deborah|First Steps Primeros Pasos|704|0.0|0.0|0.0|0.0|0.0
+Hamilton|Deborah|MeadowWood Behavioral Health System|705|0.0|0.0|0.0|0.0|0.0
+Hamilton|Deborah|Marijuana Policy Project|751|27.85|0.0|0.0|0.0|0.0
+Hamilton|Deborah|Lilly USA, LLC|1136|0.0|0.0|0.0|0.0|0.0
+Hamilton|Deborah|Assoc of Builders & Contractors of DE|910|57.4|0.0|0.0|0.0|0.0
+Hamilton|Deborah|Delaware Association of Physician Assistants|917|0.0|0.0|0.0|0.0|0.0
+Hamilton|Deborah|Pfizer|918|22.9|0.0|0.0|0.0|0.0
+Hamilton|Deborah|Humane Society of the United States|1134|0.0|0.0|0.0|0.0|0.0
+Hamilton|Deborah|Bancroft|1135|0.0|0.0|0.0|0.0|0.0
+Hamilton|Deborah|Thomas Jefferson University|1122|0.0|0.0|0.0|0.0|0.0
+Hamilton|Deborah|United Health Group, Inc.|1175|0.0|0.0|0.0|0.0|0.0
+Hamilton|Deborah|Delaware Optometrist Association|998|0.0|0.0|0.0|0.0|0.0
+Hamilton|Deborah|Cozen O'Connor Public Strategies|1176|0.0|0.0|0.0|0.0|0.0
+Hamilton|Deborah|Society of Respiratory Care Therapists|1177|0.0|0.0|0.0|0.0|0.0
+Durham|Dee|Common Cause/Delaware|856|0.0|0.0|0.0|0.0|0.0
+Durham|Dee|Brandywine Sprouts, Roots & Shoots|1040|0.0|0.0|0.0|0.0|0.0
+Dunn|Denis P.|AT&T|51|0.0|0.0|0.0|0.0|0.0
+Phifer|Dennis Bruce|Greater Wilmington Radio Association|331|0.0|0.0|0.0|0.0|0.0
+Mell III|Donald C.|JPMORGAN CHASE BANK NA|967|132.2|0.0|0.0|0.0|0.0
+Gardner|Dr. Harry|Northeast Alliance Of Delaware|669|0.0|0.0|0.0|0.0|0.0
+Fielding|Edward H.|AARP DELAWARE|2|0.0|0.0|0.0|0.0|0.0
+Brown|Elizabeth|Delaware Riverkeeper Network|938|0.0|0.0|0.0|0.0|0.0
+Olsen|Elizabeth|American Traffic Solutions, Inc.|1173|0.0|0.0|0.0|0.0|0.0
+Camoirano|Ernest J.|DELAWARE PROFESSIONAL LOBBYISTS, LLC|110|0.0|0.0|0.0|0.0|0.0
+Camoirano|Ernest J.|Delaware Park Management Company, LLC|680|0.0|0.0|0.0|0.0|0.0
+Camoirano|Ernest J.|Delaware Park Association|1067|0.0|0.0|0.0|0.0|0.0
+Temko|Ezra|Americans for Democratic Action|1142|0.0|0.0|0.0|0.0|0.0
+Patterson|GARY|AMERICAN PETROLEUM INSTITUTE|19|104.45|0.0|0.0|0.0|0.0
+Danneman|George|REYBOLD GROUP, THE|232|0.0|0.0|0.0|0.0|0.0
+Danneman|George|MD/DE/DC Beverage Association|847|0.0|0.0|0.0|0.0|0.0
+Danneman|George|Nationwide Health Care Services, Inc.|1035|0.0|0.0|0.0|0.0|0.0
+Fitzgerald|George|Delaware Credit Union League|483|0.0|0.0|0.0|0.0|0.0
+Waites|Gerard|Delaware Laborers Employers Corporation and Education Trust|1082|0.0|0.0|0.0|0.0|0.0
+Gross|Gregory L.|DELAWARE STATE CHAMBER OF COMMERCE|124|251.41|0.0|0.0|0.0|0.0
+Cleary|Gwen|Lilly USA, LLC|754|0.0|0.0|0.0|0.0|0.0
+Brown|Hetti|Humane Society of the United States|997|0.0|0.0|0.0|0.0|0.0
+Williams|J. D.|Oracle America, Inc.|1012|0.0|0.0|0.0|0.0|0.0
+Satterfield|J. William|DELMARVA POULTRY INDUSTRY, INC.|132|662.82|0.0|0.0|0.0|0.0
+Conrod|J'Aime|UCB, Inc.|1083|0.0|0.0|0.0|0.0|0.0
+Brown|James|Capital One Financial Corporation|1079|0.0|0.0|0.0|0.0|0.0
+Black|James|Delawind|1070|0.0|0.0|0.0|0.0|0.0
+Warner|Jaynine|Farmers Insurance Group|962|0.0|0.0|0.0|0.0|0.0
+Chiquoine|Jeanne|American Cancer Society Cancer Action Network and it's Affiliates|493|12.0|0.0|0.0|0.0|0.0
+Cook-McCormac|Jeff|American Unity Fund|1191|0.0|0.0|0.0|0.0|0.0
+Hague|Jeff|Bridgeville Rifle & Pistol Club, Ltd.|1188|0.0|0.0|0.0|0.0|0.0
+Hague|Jeff|DELAWARE STATE SPORTSMEN'S ASSOCIATION|128|0.0|0.0|0.0|0.0|0.0
+Mendez|Jennifer|The Carpet and Rug Institute|881|0.0|0.0|0.0|0.0|0.0
+Kudon|Jeremy|Dish Network L.L.C.|1147|0.0|0.0|0.0|0.0|0.0
+Kudon|Jeremy|FIG LLC and its affiliates|985|1205.04|0.0|0.0|0.0|0.0
+Heisler, Jr.|Jerome|The Reybold Group|840|0.0|0.0|0.0|0.0|0.0
+Fuchs|Jill|Land Leased Homeowners Coalition|777|0.0|0.0|0.0|0.0|0.0
+Lardear|Jim|AAA Mid-Atlantic|556|0.0|0.0|0.0|0.0|0.0
+Verplanck|Joan|DELAWARE STATE CHAMBER OF COMMERCE|124|251.41|0.0|0.0|0.0|0.0
+Hollis|John|Nemours Health and Preventions Services|675|0.0|0.0|0.0|0.0|0.0
+Armitage|John|NATIONAL RIFLE ASSOCIATION|206|0.0|0.0|0.0|28.0|0.0
+Riley|John|Ashland Inc.|883|0.0|0.0|0.0|0.0|0.0
+Barnes|John|AARP DELAWARE|2|0.0|0.0|0.0|0.0|0.0
+Sigler|John Charles|DELAWARE STATE SPORTSMEN'S ASSOCIATION|128|0.0|0.0|0.0|0.0|0.0
+Baker|John D|Delaware Alliance For Nonprofit Advancement|1182|0.0|0.0|0.0|0.0|0.0
+Daniello|John D.|CONTRACTORS OF DE, INC.|65|0.0|0.0|0.0|0.0|0.0
+Daniello|John D.|DELAWARE MECHANICAL CONTRACTORS ASSOCIATION|103|0.0|0.0|0.0|0.0|0.0
+Taylor Jr|John H.|DELAWARE STATE CHAMBER OF COMMERCE|124|251.41|0.0|0.0|0.0|0.0
+Casey, Jr.|John J.|DELAWARE CONTRACTORS ASSOCIATION|90|282.25|0.0|0.0|0.0|0.0
+Kirch|Jonathan|AMERICAN HEART ASSOCIATION (Great Rivers Affiliate)|15|0.0|0.0|0.0|0.0|0.0
+Schoell|Joseph|GIFT OF LIFE DONOR PROGRAM|148|0.0|0.0|0.0|0.0|0.0
+Smith|Joseph|Friends of Club Legislation, Inc.|949|15.0|0.0|30.0|0.0|0.0
+Fitzgerald, Jr.|Joseph F.|NEW CASTLE COUNTY CHAMBER OF COMMERCE|212|491.0|0.0|0.0|0.0|1050.0
+Farley, Sr.|Joseph P.|Delmarva Power a PHI Company|62|32.0|0.0|0.0|0.0|0.0
+Petrilli|Joseph R.|TOTAL WINE & MORE|249|0.0|0.0|0.0|0.0|0.0
+Petrilli|Joseph R.|RAI Services Company|1003|0.0|0.0|0.0|0.0|0.0
+Jeffers|Julie|Delaware Sleep Society|950|0.0|0.0|0.0|0.0|0.0
+Sisson|Karen|Walgreen Co.|1161|0.0|0.0|0.0|0.0|0.0
+Powers-Case|Karol|DELAWARE RETIRED SCHOOL PERSONNEL ASSOCIATION|113|0.0|0.0|0.0|0.0|0.0
+Geringer|Karyn|CQS (US), LLC|952|0.0|0.0|0.0|0.0|0.0
+MacRae|Kathleen|AMERICAN CIVIL LIBERTIES UNION OF DELAWARE|12|0.0|0.0|0.0|0.0|0.0
+Macklin|Katie|Alzheimer's Association, Delaware Valley|389|0.0|0.0|0.0|0.0|0.0
+currie|ken|9-12 Delaware Patriots|852|0.0|0.0|0.0|0.0|0.0
+Siegel|Kim|Autism Delaware, Inc.|1138|30.0|0.0|0.0|0.0|0.0
+Gomes|Kimberly B.|The Byrd Group, LLC|797|206.0|0.0|0.0|0.0|0.0
+Gomes|Kimberly B.|Norfolk Southern Corporation|213|20.0|0.0|0.0|0.0|0.0
+Fuchs|Kurt|MidAtlantic Farm Credit, ACA|1094|662.82|0.0|0.0|0.0|0.0
+Brinjac|Lauren|Delaware Association of Insurance Agents & Brokers|1143|933.34|0.0|0.0|0.0|0.0
+Schutt|Laurisa|Teach For America, Inc.|1171|0.0|0.0|0.0|0.0|0.0
+Schieffert|Lisa|DELAWARE HEALTHCARE ASSN.|279|0.0|0.0|0.0|0.0|0.0
+Fleming|Lorraine M.|DELAWARE NATURE SOCIETY|105|0.0|0.0|0.0|0.0|0.0
+Williams|Lynn|Christina Conservancy|849|0.0|0.0|0.0|0.0|0.0
+Evans|Maria|DELAWARE ASSN. OF REALTORS|276|501.31|0.0|0.0|0.0|0.0
+Kenville-Moore|Mariann|Delaware Coalition Against Domestic Violence|784|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|DELAWARE LEAGUE OF LOCAL GOVERNMENTS|100|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|REHOBOTH-DEWEY CHAMBER OF COMMERCE|231|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Vasilikos Associates|708|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Vasilikos Enterprises|709|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Rehoboth Professional Center|710|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Gannos LLC|711|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Old Landing Properties|712|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Seafarers Shops LLC|713|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Cedar Village LLC|714|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Careys Estates LLC|715|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Georgetown Properties LLC|716|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Heritage Lands LLC|717|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Smyrna Properties LLC|718|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Destination Station Center Ltd.|720|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|The Way Home, Inc.|774|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Hidden Hills MHP, LLC|775|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|M.S.Lally & Associates|958|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Horizon Philanthropic Services|959|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Sussex County Compassion Care Center|979|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Delaware Solar Energy Coalition, LLC|825|0.0|0.0|0.0|0.0|0.0
+Lally|Mark|Fort Miles Historical Association|1028|0.0|0.0|0.0|0.0|0.0
+Rouse|Marty|Human Rights Campaign|933|0.0|0.0|0.0|0.0|0.0
+Davis|Mary |DELAWARE STATE BAR ASSN.|123|0.0|0.0|0.0|0.0|0.0
+Davis|Mary |DOVER DOWNS GAMING & ENTERTAINMENT, INC.|284|0.0|0.0|0.0|0.0|0.0
+Davis|Mary |DELAWARE TRIAL LAWYERS ASSN.|130|7125.34|0.0|0.0|0.0|0.0
+Davis|Mary |NED DAVIS ASSOCIATES|211|711.66|0.0|0.0|0.0|0.0
+Melley|Maura|The Phoenix Companies Inc.|1053|0.0|0.0|0.0|0.0|0.0
+Hopkins|Melissa|Rodel Foundation of Delaware|981|22.2|0.0|0.0|0.0|0.0
+Payne|Nancy|AIA DELAWARE|4|0.0|0.0|0.0|0.0|0.0
+Willing|Nancy|CIVIC LEAGUE FOR NEW CASTLE COUNTY|57|0.0|0.0|0.0|0.0|0.0
+Snell|Oyango|PROPERTY CASUALTY INSURERS ASSOC.|203|138.0|0.0|0.0|0.0|0.0
+Bakerian|Pamela|Delaware Farm Bureau|377|328.07|0.0|0.0|0.0|0.0
+Haddock|Patricia|Delaware Votes For Animals|1017|0.0|0.0|0.0|0.0|0.0
+Allen|Patrick|Regal Contractors|1060|0.0|0.0|0.0|0.0|0.0
+Davis|Paul|Delaware Veterans Coalition|945|0.0|0.0|0.0|0.0|0.0
+Herdman|Paul|Rodel Charitable Foundation of Delaware|697|0.0|0.0|0.0|0.0|0.0
+Bauernschmidt|Paul|Farmer+Smith, LLC|666|0.0|0.0|0.0|0.0|0.0
+Bauernschmidt|Paul|Delaware Museum Association|667|0.0|0.0|0.0|0.0|0.0
+Couming|Peter |Land Lease Homeowners Coalition|1105|0.0|0.0|0.0|0.0|0.0
+Williams|Phillip|Delaware P.E.O.P.L.E. Committee|1088|0.0|0.0|0.0|0.0|0.0
+Williams, Sr.|Phillip S.|DELAWARE PUBLIC EMPLOYEES COUNCIL 81 AMERICAN FEDERATION OF STATE, COUNTY & MUNICIPAL EMPLOYEES - AFL - CIO|111|0.0|0.0|0.0|0.0|0.0
+Byrd|Rebecca|GIFT OF LIFE DONOR PROGRAM|148|0.0|0.0|0.0|0.0|0.0
+Byrd|Rebecca|The Byrd Group, LLC|797|146.85|0.0|0.0|0.0|0.0
+Kidner|Rebecca Batson|DELAWARE STANDARDBRED OWNERS ASSN., INC.|121|840.0|0.0|0.0|0.0|0.0
+Kidner|Rebecca Batson|REBECCA BATSON KIDNER, P.A.|290|58.96|0.0|0.0|0.0|0.0
+Maly|Richard|Land Leased Homeowners Coalition|777|0.0|0.0|0.0|0.0|0.0
+Jones|Richard|The Nature Conservancy|526|0.0|0.0|0.0|0.0|0.0
+Korn|Richard|DELAWARE BUILDING & CONSTRUCTION TRADES COUNCIL|85|0.0|0.0|0.0|0.0|0.0
+Korn|Richard|Delaware Coalition for Prison Reform and Justice|576|0.0|0.0|0.0|0.0|0.0
+Korn|Richard|A. Philip Randolph Institute of Delaware, Inc.|599|0.0|0.0|0.0|0.0|0.0
+Korn|Richard|Road Sprinkler Fitters U.A. Local Union 669|613|0.0|0.0|0.0|0.0|0.0
+Korn|Richard|Richard Korn|698|0.0|0.0|0.0|0.0|0.0
+Korn|Richard|Insulators & Allied Workers Local 42|941|0.0|0.0|0.0|0.0|0.0
+Korn|Richard|Laborer's Eastern Region Organizing Fund (LEROF)|957|0.0|0.0|0.0|0.0|0.0
+Cecil|Richard C.|Consortium of Non-Medical Privately Operated Home Care|381|0.0|0.0|0.0|0.0|0.0
+Bayard|Richard H.|Delaware Government Relations, LLC|490|18.6|0.0|0.0|0.0|1291.87
+Book, II|Robert A.|DELAWARE ELECTRIC COOPERATIVE|94|1600.0|0.0|0.0|0.0|0.0
+Byrd|Robert L.|Anheuser-Bush InBev|24|118.0|0.0|0.0|0.0|0.0
+Byrd|Robert L.|Norfolk Southern Corporation|213|132.0|0.0|0.0|0.0|0.0
+Byrd|Robert L.|DOVER DOWNS GAMING & ENTERTAINMENT, INC.|284|183.0|0.0|0.0|0.0|0.0
+Byrd|Robert L.|The Byrd Group, LLC|797|324.0|0.0|0.0|0.0|0.0
+Maxwell|Robert Lee|DELAWARE ASIAN AMERICAN BUSINESS ASSOCIATION|74|62.0|0.0|0.0|0.0|0.0
+Maxwell|Robert Lee|Laborers Eastern Region Fund Inc|359|132.0|0.0|0.0|0.0|0.0
+Maxwell|Robert Lee|TIDEWATER UTILITIES|248|0.0|0.0|0.0|0.0|0.0
+Maxwell|Robert Lee|DELAWARE ASSOCIATION OF COUNTIES|76|0.0|0.0|0.0|0.0|0.0
+Maxwell|Robert Lee|DELAWARE CENTER FOR JUSTICE, INC.|87|0.0|0.0|0.0|0.0|0.0
+Maxwell|Robert Lee|DELAWARE MUNICIPAL ELECTRIC CORP.|104|0.0|0.0|0.0|0.0|0.0
+Maxwell|Robert Lee|SUSSEX COUNTY ASSN. OF TOWNS|242|0.0|0.0|0.0|0.0|0.0
+Maxwell|Robert Lee|City of Newark|460|0.0|0.0|0.0|0.0|0.0
+Roy|Roger|BURRIS FIRM, THE|36|469.8|0.0|0.0|0.0|0.0
+Roy|Roger|DELAWARE CHIROPRACTIC SOCIETY|89|900.0|0.0|0.0|0.0|0.0
+Roy|Roger|Wine Institute|738|9.09|0.0|0.0|0.0|0.0
+Roy|Roger|LABORERS' INTERNATIONAL UNION OF NORTH AMERICA, LOCAL 55|816|46.55|0.0|0.0|0.0|0.0
+Lytle-Barnaby|Ruth|PLANNED PARENTHOOD ADVOCACY FUND OF DELAWARE, INC.|1199|0.0|0.0|0.0|0.0|0.0
+Lytle-Barnaby|Ruth|PLANNED PARENTHOOD OF DELAWARE|1200|0.0|0.0|0.0|0.0|0.0
+Martin|Sara|Boehringer Ingelheim Pharmaceuticals, Inc.|1101|0.0|0.0|0.0|0.0|0.0
+Warbelow|Sarah|Human Rights Campaign|933|0.0|0.0|0.0|0.0|0.0
+Mantzavinos|Spiros|EnviroKure, Inc.|1013|0.0|0.0|0.0|0.0|0.0
+Mantzavinos|Spiros|Delaware Building and Construction Trades Council|1185|0.0|0.0|0.0|0.0|0.0
+Baccino|Steven|Delmarva Power a PHI Company|62|0.0|0.0|0.0|0.0|60.0
+Lindner|Stuart P.|Artesian Resources|25|276.0|0.0|0.0|0.0|0.0
+Brown|Susan|PTA Delaware Congress|1073|0.0|0.0|0.0|0.0|0.0
+Graham|Terry|PRESERVATION DELAWARE|225|0.0|0.0|0.0|0.0|0.0
+Shea|Thomas|The Mary Campbell Center|497|0.0|0.0|0.0|0.0|0.0
+McGonigle|Thomas|Kinder Morgan Energy Partners L.P.|1049|0.0|0.0|0.0|0.0|0.0
+McGonigle|Thomas|Nationwide Health Care Services, Inc.|1035|0.0|0.0|0.0|0.0|0.0
+McGonigle|Thomas|GIFT OF LIFE DONOR PROGRAM|148|0.0|0.0|0.0|0.0|0.0
+McGonigle|Thomas|Hotbox Sports Ventures, Inc. |1180|0.0|0.0|0.0|0.0|0.0
+Deaton|Tyler|American Unity Fund|1191|0.0|0.0|0.0|0.0|0.0
+Hensley|Verna|Easter Seals Delaware and Maryland's Eastern Shore|458|0.0|0.0|0.0|0.0|0.0
+Stabler, III|W. Laird|Laird Stabler & Associates LLC|174|38.95|0.0|0.0|0.0|0.0
+Newnam|W. Michael|TIDEWATER UTILITIES|248|0.0|0.0|0.0|0.0|0.0
+Jones|Warren|Delaware Volunteer Firemen's Association|328|0.0|0.0|0.0|0.0|0.0
+Smith|Wayne|DELAWARE HEALTHCARE ASSN.|279|10.75|0.0|0.0|0.0|0.0
+Kress|William|Retail Energy Supply Association|912|0.0|0.0|0.0|0.0|0.0
+Kress|William|Washington Gas Energy Services|1051|0.0|0.0|0.0|0.0|0.0
+Moyer|William|Inland Bays Foundation, Inc.|996|0.0|0.0|0.0|0.0|0.0
+Kirk III|William E.|HIGHMARK BLUE CROSS BLUE SHIELD DELAWARE|1108|0.0|0.0|0.0|0.0|0.0
+Campbell|William G.|Enterprise Leasing Company of Philadelphia|475|64.35|0.0|0.0|0.0|0.0
+Johnson|Yvonne|DELAWARE CONGRESS OF PARENTS & TEACHERS (DPTA)|278|0.0|0.0|0.0|0.0|0.0

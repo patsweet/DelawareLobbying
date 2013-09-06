@@ -1,0 +1,24 @@
+last_name|first_name|employer|legislator|gift_date|gift_description|gift_value
+Fitzgerald, Jr.|Joseph F.|NEW CASTLE COUNTY CHAMBER OF COMMERCE|Poore, Nicole|2013-03-18|New Castle County Chamber Annual Dinner|175
+Fitzgerald, Jr.|Joseph F.|NEW CASTLE COUNTY CHAMBER OF COMMERCE|Longhurst, Valerie J|2013-03-18|New Castle County Chamber of Commerce Annual Dinner |175
+Fitzgerald, Jr.|Joseph F.|NEW CASTLE COUNTY CHAMBER OF COMMERCE|Viola, John|2013-03-18|New Castle County Chamber of Commerce Annual Dinner + spouse |350
+Fitzgerald, Jr.|Joseph F.|NEW CASTLE COUNTY CHAMBER OF COMMERCE|Williams, Dennis E.|2013-03-18|New Castle County Chamber of Commerce Annual Dinner|175
+Fitzgerald, Jr.|Joseph F.|NEW CASTLE COUNTY CHAMBER OF COMMERCE|Markell, Jack|2013-03-18|New Castle County Chamber of Commerce Annual Dinner |175
+Brinjac|Lauren|Delaware Association of Insurance Agents & Brokers|Reed, Gene|2013-01-31|DE CHAMBER DINNER|233.34
+Brinjac|Lauren|Delaware Association of Insurance Agents & Brokers|Reynolds, Paul|2013-01-31|DE CHAMBER DINNER|233.34
+Brinjac|Lauren|Delaware Association of Insurance Agents & Brokers|West, Honorable Charles|2013-01-31|DE CHAMBER DINNER|233.33
+Brinjac|Lauren|Delaware Association of Insurance Agents & Brokers|Drane, Hardy|2013-01-31|DE CHAMBER DINNER|233.33
+Kidner|Rebecca Batson|DELAWARE STANDARDBRED OWNERS ASSN., INC.|Kenton, Harvey|2013-01-11|dinner at annual banquet for legislator and guest|80
+Kidner|Rebecca Batson|DELAWARE STANDARDBRED OWNERS ASSN., INC.|Outten, William R.|2013-01-11|dinner at annual banquet for legislator and guest|80
+Kidner|Rebecca Batson|DELAWARE STANDARDBRED OWNERS ASSN., INC.|Blakey, Donald A.|2013-01-11|dinner at annual banquet for legislator and guest|80
+Kidner|Rebecca Batson|DELAWARE STANDARDBRED OWNERS ASSN., INC.|Simpson, F. Gary|2013-01-11|dinner at annual banquet for legislator and guest|80
+Kidner|Rebecca Batson|DELAWARE STANDARDBRED OWNERS ASSN., INC.|Ramone, Michael|2013-01-11|dinner at annual banquet for legislator and guest|80
+Kidner|Rebecca Batson|DELAWARE STANDARDBRED OWNERS ASSN., INC.|Gray, Ronald|2013-01-11|dinner at annual banquet for legislator and guest|80
+Kidner|Rebecca Batson|DELAWARE STANDARDBRED OWNERS ASSN., INC.|Wagner, Patt|2013-01-11|dinner at annual banquet for commissioner and guest|80
+Roy|Roger|BURRIS FIRM, THE|Hudson, Deborah|2013-01-21|Chamber of Commerce Dinner|225
+Roy|Roger|BURRIS FIRM, THE|Short, Bryon H.|2013-01-21|Chamber of Commerce Dinner|225
+Roy|Roger|DELAWARE CHIROPRACTIC SOCIETY|Longhurst, Valerie J|2013-01-21|Chamber of Commerce Dinner|225
+Roy|Roger|DELAWARE CHIROPRACTIC SOCIETY|Johnson, IV, S. Quinton|2013-01-21|Chamber of Commerce Dinner|225
+Roy|Roger|DELAWARE CHIROPRACTIC SOCIETY|Hall-Long, Bethany|2013-01-21|Chamber of Commerce Dinner|225
+Roy|Roger|DELAWARE CHIROPRACTIC SOCIETY|Stewart, Karen|2013-01-21|Chamber of Commerce Dinner|225
+Baccino|Steven|Delmarva Power a PHI Company|Johnson, IV, S. Quinton|2013-02-14|Ticket to New Castle County Chamber of Commerce Economic Forecast Luncheon|60
