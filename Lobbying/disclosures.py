@@ -1,7 +1,6 @@
 import os
 import csv
 import json
-import time
 import xml.etree.ElementTree as ET
 from Lobbyists import Employer, Expenditure, Gift, Lobbyist
 
