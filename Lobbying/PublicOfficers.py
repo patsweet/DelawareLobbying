@@ -6,22 +6,9 @@
 # /_/    \__,_/_.___(_)   \____/_/ /_/ /_/\___/\___/_/  /____/
 #
 # Models for the disclosures from Public Officers.
-#   - PublicOfficer
-#       - first name (string)
-#       - middle name (string)
-#       - last name (string)
-#       - state position (string)
-#       - submitted date (datetime)
-#       - year (string)
-#       - instrument ownerships (list of objects)
-#       - business enterprises (list of objects)
-#       - professional organization (list of objects)
-#       - constructive control (list of objects)
-#       - creditor (list of objects)
-#       - income service (list of objects)
-#       - capital gain (list of objects)
-#       - reimbursed expenditures
+#   - PublicOfficer objects include lists of all the classes above it.
 ##############################################################################
+
 
 class InstrumentOwnership(object):
     """docstring for InstrumentOwnership"""
@@ -46,15 +33,101 @@ class BusinessEnterprise(object):
 
 
 class ProfessionalOrganization(object):
-         """docstring for ProfessionalOrganization"""
-         def __init__(self, item_id, disclosure_id, organization_name,
-            address, type_of_practice, management_position):
-             self.item_id = item_id
-             self.disclosure_id = disclosure_id
-             self.organization_name = organization_name
-             self.address = address
-             self.type_of_practice = type_of_practice
-             self.management_position = management_position
+     """docstring for ProfessionalOrganization"""
+     def __init__(self, item_id, disclosure_id, organization_name,
+        address, type_of_practice, management_position):
+         self.item_id = item_id
+         self.disclosure_id = disclosure_id
+         self.organization_name = organization_name
+         self.address = address
+         self.type_of_practice = type_of_practice
+         self.management_position = management_position
+
+
+class ConstructiveControl(object):
+    """docstring for ConstructiveControl"""
+    def __init__(self, item_id, disclosure_id, entity_name, entity_instrument,
+        nature_of_constrol):
+        self.item_id = item_id
+        self.disclosure_id = disclosure_id
+        self.entity_name = entity_name
+        self.entity_instrument = entity_instrument
+        self.nature_of_constrol = nature_of_constrol
+
+
+class Creditor(object):
+    """docstring for Creditor"""
+    def __init__(self, item_id, disclosure_id, creditor_name):
+        self.item_id = item_id
+        self.disclosure_id = disclosure_id
+        self.creditor_name = creditor_name
+
+
+class IncomeService(object):
+    """docstring for IncomeService"""
+    def __init__(self, item_id, disclosure_id, income_source_type_id,
+        income_source_type, income_source):
+        self.item_id = item_id
+        self.disclosure_id = disclosure_id
+        self.income_source_type_id = income_source_type_id
+        self.income_source_type = income_source_type
+        self.income_source = income_source
+
+
+class CapitalGain(object):
+    """docstring for CapitalGain"""
+    def __init__(self, item_id, disclosure_id, capital_gain_name):
+        self.item_id = item_id
+        self.disclosure_id = disclosure_id
+        self.capital_gain_name = capital_gain_name
+
+
+class ReimbursedExpenditure(object):
+    """docstring for ReimbursedExpenditure"""
+    def __init__(self, item_id, disclosure_id, expenditure_source):
+        self.item_id = item_id
+        self.disclosure_id = disclosure_id
+        self.expenditure_source = expenditure_source
+
+
+class Honoraria(object):
+    """docstring for Honoraria"""
+    def __init__(self, item_id, disclosure_id, honoraria_source):
+        self.item_id = item_id
+        self.disclosure_id = disclosure_id
+        self.honoraria_source = honoraria_source
+
+
+class Gift(object):
+    """docstring for Gift"""
+    def __init__(self, item_id, disclosure_id, gift_type_id, gift_type,
+        gift_source, gift_value):
+        self.item_id = item_id
+        self.disclosure_id = disclosure_id
+        self.gift_type_id = gift_type_id
+        self.gift_type = gift_type
+        self.gift_source = gift_source
+        self.gift_value = gift_value
+
+
+class IncomeSource(object):
+    """
+        Income source (IncomeSourceCollection) appears to be
+        blank for all Public Officers of the state. Not used?
+    """
+    pass
+
+
+class BoardMembership(object):
+    """docstring for BoardMembership"""
+    def __init__(self, item_id, disclosure_id, membership_type_id,
+        membership_type, membership_name, membership_address):
+        self.item_id = item_id
+        self.disclosure_id = disclosure_id
+        self.membership_type_id = membership_type_id
+        self.membership_type = membership_type
+        self.membership_name = membership_name
+        self.membership_address = membership_address
 
 
 class PublicOfficer(object):
