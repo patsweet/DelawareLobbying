@@ -23,7 +23,38 @@
 #       - reimbursed expenditures
 ##############################################################################
 
+class InstrumentOwnership(object):
+    """docstring for InstrumentOwnership"""
+    def __init__(self, item_id, disclosure_id, name, instrument,
+        nature_of_ownership):
+        self.item_id = item_id
+        self.disclosure_id = disclosure_id
+        self.name = name
+        self.instrument = instrument
+        self.nature_of_ownership = nature_of_ownership
 
+
+class BusinessEnterprise(object):
+    """docstring for BusinessEnterprise"""
+    def __init__(self, item_id, disclosure_id, name, name_of_ownership,
+        position_of_management):
+        self.item_id = item_id
+        self.disclosure_id = disclosure_id
+        self.name = name
+        self.name_of_ownership = name_of_ownership
+        self.position_of_management = position_of_management
+
+
+class ProfessionalOrganization(object):
+         """docstring for ProfessionalOrganization"""
+         def __init__(self, item_id, disclosure_id, organization_name,
+            address, type_of_practice, management_position):
+             self.item_id = item_id
+             self.disclosure_id = disclosure_id
+             self.organization_name = organization_name
+             self.address = address
+             self.type_of_practice = type_of_practice
+             self.management_position = management_position
 
 
 class PublicOfficer(object):
