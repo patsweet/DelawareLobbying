@@ -2,12 +2,11 @@
 # Main script to parse and output public lobbying disclosures.
 ##############################################################################
 
-import os
 import csv
 import json
 from xml_parsers import parseLobbyistXML
 from Lobbyists import Employer, Expenditure, Gift, Lobbyist
-from settings import BASE_DIR, IFILE, JSONOUT, GIFTSOUT, EXPENDOUT
+from settings import lobby_settings
 
 
 class LobbyistEncoder(json.JSONEncoder):
@@ -29,14 +28,18 @@ def generateGifts(lobbyists):
         'last_name', 'first_name', 'employer', 'legislator',
         'gift_date', 'gift_description', 'gift_value'
     ]
-    with open(GIFTSOUT, 'w+') as ofile:
+    with open(lobby_settings["GIFTSOUT"], 'w+') as ofile:
         ofile.write("|".join(header) + "\n")
         for lobbyist in lobbyists:
             for gift in lobbyist.gifts:
+                if not gift.employer:
+                    employer_name = ''
+                else:
+                    employer_name = gift.employer.legal_name
                 out = [
                     lobbyist.last_name,
                     lobbyist.first_name,
-                    gift.employer.legal_name,
+                    employer_name,
                     gift.poname,
                     gift.gift_date,
                     gift.gift_description,
@@ -50,10 +53,13 @@ def generateExpendetures(lobbyists):
         'employer_id', 'food_refreshments', 'entertainment', 'lodging',
         'travel', 'recreation', 'gifts'
     ]
-    with open(EXPENDOUT, 'w+') as ofile:
+    with open(lobby_settings["EXPENDOUT"], 'w+') as ofile:
         ofile.write("|".join(header) + "\n")
         for lobbyist in lobbyists:
             for expenditure in lobbyist.expenditures:
+                if not expenditure.employer:
+                    expenditure.employer.legal_name = ''
+                    expenditure.employer_id = ''
                 out = [
                     lobbyist.last_name,
                     lobbyist.first_name,
@@ -61,13 +67,13 @@ def generateExpendetures(lobbyists):
                     lobbyist.quarter,
                     expenditure.employer.legal_name,
                     expenditure.employer.employer_id,
-                    expenditure.food_refreshments,
-                    expenditure.lodging_expenses,
-                    expenditure.travel_expenses,
-                    expenditure.recreation_expenses,
-                    expenditure.gift_contributions
+                    str(expenditure.food_refreshments),
+                    str(expenditure.lodging_expenses),
+                    str(expenditure.travel_expenses),
+                    str(expenditure.recreation_expenses),
+                    str(expenditure.gift_contributions)
                 ]
-                out = [str(item) for item in out]
+                out = [item.encode('utf-8', 'xmlcharrefreplace') for item in out]
                 ofile.write("|".join(out) + "\n")
 
 
@@ -77,12 +83,13 @@ def main():
     and pipe-delimited files for gifts and expenditures.
     """
     lobbyists = []
-    with open(IFILE, 'r') as csvfile, open(JSONOUT, 'w+') as jsonfile:
+    with open(lobby_settings["IFILE"], 'r') as csvfile, \
+        open(lobby_settings["JSONOUT"], 'w+') as jsonfile:
         record_id = 1
         reader = csv.reader(csvfile, delimiter='|')
         reader.next()  # Skip the first row
         for row in reader:
-            row = [item.decode('iso-8859-1').encode('utf8') for item in row]
+            row = [item.decode('latin-1').encode('utf-8', 'xmlcharrefreplace') for item in row]
             expenditures, gifts = parseLobbyistXML(row[8])  # Must parse xml string.
             lobbyist = Lobbyist(
                 record_id,

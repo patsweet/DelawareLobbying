@@ -40,10 +40,8 @@ def parseLobbyistXML(xml_string):
         expenditures.append(x)
     # Parse gifts from lpg
     for gift in lobs_po_gifts:
-        g = Lobbyists.Gift(
-            gift.find('ItemId').text,
-            gift.find('DisclosureId').text,
-            Lobbyists.Employer(
+        try:
+            employer = Lobbyists.Employer(
                 gift.find('Employer/EmployerId').text,
                 gift.find('Employer/LegalName').text,
                 gift.find('Employer/AddressLine1').text,
@@ -51,7 +49,13 @@ def parseLobbyistXML(xml_string):
                 gift.find('Employer/City').text,
                 gift.find('Employer/State').text,
                 gift.find('Employer/ZipCode').text
-            ),
+            )
+        except AttributeError, e:
+            employer = None
+        g = Lobbyists.Gift(
+            gift.find('ItemId').text,
+            gift.find('DisclosureId').text,
+            employer,
             gift.find('GiftDate').text[:10],
             gift.find('POId').text,
             gift.find('POName').text,
