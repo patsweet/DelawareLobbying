@@ -1,0 +1,5 @@
+*.pyc
+xml/
+data_out/
+cleaned_data/
+raw_data/
