@@ -15,7 +15,7 @@ def parseLobbyistXML(xml_string):
     root = ET.fromstring(xml_string)
     lobs_employer_expenditures = root.findall('.//LobsEmployerExpenditure')
     lobs_po_gifts = root.findall('.//LobsPOGifts')
-    # Parse expenditures from lee
+    # Parse expenditures from lobs_employer_expenditures
     for expenditure in lobs_employer_expenditures:
         x = Lobbyists.Expenditure(
             expenditure.find('ItemId').text,
@@ -38,7 +38,7 @@ def parseLobbyistXML(xml_string):
             float(expenditure.find('GiftContributions').text)
         )
         expenditures.append(x)
-    # Parse gifts from lpg
+    # Parse gifts from lobs_po_gifts
     for gift in lobs_po_gifts:
         try:
             employer = Lobbyists.Employer(

@@ -19,7 +19,7 @@ class LobbyistEncoder(json.JSONEncoder):
         and not isinstance(obj, Employer) \
         and not isinstance(obj, Expenditure) \
         and not isinstance(obj, Gift):
-            return super(MyEncoder, self).default(obj)
+            return super(LobbyistEncoder, self).default(obj)
         return obj.__dict__
 
 
