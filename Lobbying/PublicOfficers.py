@@ -47,12 +47,12 @@ class ProfessionalOrganization(object):
 class ConstructiveControl(object):
     """docstring for ConstructiveControl"""
     def __init__(self, item_id, disclosure_id, entity_name, entity_instrument,
-        nature_of_constrol):
+        nature_of_control):
         self.item_id = item_id
         self.disclosure_id = disclosure_id
         self.entity_name = entity_name
         self.entity_instrument = entity_instrument
-        self.nature_of_constrol = nature_of_constrol
+        self.nature_of_control = nature_of_control
 
 
 class Creditor(object):
@@ -136,7 +136,7 @@ class PublicOfficer(object):
         submitted_date, year, instrument_ownership, business_enterprise,
         pro_organization, constructive_control, creditor, income_service,
         capital_gain, reimbursed_expenditures, honoraria, gifts,
-        source_of_income, board_membership):
+        source_of_income, board_membership, filename):
         self.first_name = first_name
         self.middle_name = middle_name
         self.last_name = last_name
@@ -155,3 +155,11 @@ class PublicOfficer(object):
         self.gifts = gifts
         self.source_of_income = source_of_income
         self.board_membership = board_membership
+        self.filename = filename
+
+    @property
+    def full_name(self):
+        return "%s %s" % (self.first_name, self.last_name)
+
+    def __str__(self):
+        return self.full_name

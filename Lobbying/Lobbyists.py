@@ -86,8 +86,9 @@ class Lobbyist(object):
         self.expenditures = expenditures
         self.gifts = gifts
 
+    @property
     def full_name(self):
         return "%s %s" % (self.first_name, self.last_name)
 
     def __str__(self):
-        return self.full_name()
+        return self.full_name

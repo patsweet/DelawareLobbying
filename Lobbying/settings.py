@@ -21,5 +21,21 @@ officer_settings = {
     "JSONOUT": os.path.join(BASE_DIR,
         os.path.join("data_out", "public_officers.json")),
     "PUBOUT": os.path.join(BASE_DIR,
-        os.path.join("data_out", "public_officers.txt"))
+        os.path.join("data_out", "public_officers.txt")),
+    "INSTRUMENTOUT": os.path.join(BASE_DIR,
+        os.path.join("data_out", "instrument_ownership.txt")),
+    "BUSINESSOUT": os.path.join(BASE_DIR,
+        os.path.join("data_out", "business_enterprise.txt")),
+    "PROOUT": os.path.join(BASE_DIR,
+        os.path.join("data_out", "professional_organization.txt")),
+    "INCOMEOUT": os.path.join(BASE_DIR,
+        os.path.join("data_out", "income_services.txt")),
+    "CAPITALGAINOUT": os.path.join(BASE_DIR,
+        os.path.join("data_out", "capital_gains.txt")),
+    "REIMBURSEDOUT": os.path.join(BASE_DIR,
+        os.path.join("data_out", "reimbursed_expenditures.txt")),
+    "GIFTSOUT": os.path.join(BASE_DIR,
+        os.path.join("data_out", "officer_gifts.txt")),
+    "BOARDSOUT": os.path.join(BASE_DIR,
+        os.path.join("data_out", "board_memberships.txt"))
 }

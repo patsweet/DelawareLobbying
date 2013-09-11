@@ -47,7 +47,7 @@ def generateGifts(lobbyists):
                 ]
                 ofile.write("|".join(out) + "\n")
 
-def generateExpendetures(lobbyists):
+def generateExpenditures(lobbyists):
     header = [
         'last_name', 'first_name', 'year', 'quarter', 'employer',
         'employer_id', 'food_refreshments', 'entertainment', 'lodging',
@@ -89,7 +89,7 @@ def main():
         reader = csv.reader(csvfile, delimiter='|')
         reader.next()  # Skip the first row
         for row in reader:
-            row = [item.decode('latin-1').encode('utf-8', 'xmlcharrefreplace') for item in row]
+            row = [item.strip().decode('latin-1').encode('utf-8', 'xmlcharrefreplace') for item in row]
             expenditures, gifts = parseLobbyistXML(row[8])  # Must parse xml string.
             lobbyist = Lobbyist(
                 record_id,
@@ -110,7 +110,7 @@ def main():
             indent=4, separators=(',', ': ')))
     # Generate the pipe-delimited files
     generateGifts(lobbyists)
-    generateExpendetures(lobbyists)
+    generateExpenditures(lobbyists)
 
 if __name__ == '__main__':
     main()
