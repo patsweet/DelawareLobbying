@@ -4,7 +4,7 @@ This set of scripts translates the lobbyist and public officer disclosures into 
 
 ## Why so many files?
 
-The scripts are broken up into five main components:
+The scripts are broken up into six main components:
 
 1. [PublicOfficers.py](https://bitbucket.org/thenewsjournal/lobbying-disclosures/src/16de73e19cfada3de550e5acc8a5e23e77965387/Lobbying/PublicOfficers.py?at=master)
     - Models defining the types of objects we are parsing from the XML string for public officers. It includes classes for:
@@ -39,3 +39,5 @@ The scripts are broken up into five main components:
             - Returns a list of expenditures and a list of gifts.
         2. parsePublicOfficerXML(xml_string)
             - Returns a dictionary of objects from PublicOfficers.py
+6. [settings.py](https://bitbucket.org/thenewsjournal/lobbying-disclosures/src/64bc7aa8638932623bfbd5d8a87ea21b489ef184/Lobbying/settings.py?at=master)
+    - Central location for all of the file paths for output and input.
